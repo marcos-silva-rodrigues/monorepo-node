@@ -14,5 +14,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "@monorepo-node/eslint-config": "*"
+  }
 }
